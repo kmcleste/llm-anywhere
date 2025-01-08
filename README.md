@@ -2,7 +2,7 @@
 
 ## Requirements
 
-- >= python3.11
+- python >= 3.11
 - uv
 - tmux
 - CUDA-capable gpu
