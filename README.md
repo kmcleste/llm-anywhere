@@ -35,7 +35,7 @@ source ~/.zshrc
 
 ## Usage
 
-In the [Makefile](Makefile), you will see various model configs. Either use mine or add your own.
+In the [Makefile](Makefile), you will see various model configs ([more info here](https://docs.vllm.ai/en/latest/serving/openai_compatible_server.html#vllm-serve)). Either use mine or add your own.
 You simply need to follow the existing convention of:
 
 ```zsh
