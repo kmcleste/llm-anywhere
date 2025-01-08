@@ -17,6 +17,8 @@ uv sync --frozen
 
 ### Update zshrc
 
+Add the following lines to your zshrc:
+
 ```zsh
 llm_serve() {
   make -C /path-to-repo/llm-anywhere serve MODEL="${1:-QWEN}"
