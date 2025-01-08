@@ -1,5 +1,7 @@
 # LLM Anywhere
 
+![LLM Anywhere short demo](./media/llm_anywhere.mp4)
+
 ## Requirements
 
 - python >= 3.11
