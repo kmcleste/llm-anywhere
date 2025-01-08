@@ -1,0 +1,10 @@
+[project]
+name = "llm-runner"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "setuptools>=75.2.0",
+    "vllm>=0.6.3.post1",
+]
