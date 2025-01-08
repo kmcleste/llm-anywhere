@@ -27,7 +27,7 @@ alias llm_stop='(make -C /path-to-repo/llm-anywhere stop)'
 alias llm_attach='(make -C /path-to-repo/llm-anywhere attach)'
 ```
 
-Source your shell or open a new terminal.
+For the changes to take effect, you will need to source your shell or open a new terminal.
 
 ```zsh
 source ~/.zshrc
