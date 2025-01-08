@@ -1,13 +1,13 @@
 # LLM Anywhere
 
-![LLM Anywhere short demo](./media/llm_anywhere.mp4)
-
 ## Requirements
 
 - python >= 3.11
 - uv
 - tmux
 - CUDA-capable gpu
+
+https://github.com/user-attachments/assets/8810753d-29ed-47b2-8e30-a1bc40d3b7ff
 
 ## Getting Started
 
